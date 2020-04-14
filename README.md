@@ -38,8 +38,8 @@ The following configurations must be made for this project:
 <br><img src="images/AVR-DA_LED_blink_delay_build.png" width="500">
 
 3. Select the AVR128DA48 Curiosity Nano on-board debugger in the *Tool* section of the project settings:
-  - Right click on the project and click *Properties*;
-  - Click *Tool* tab on the left panel, select the corresponding debugger and save the configuration (Ctrl + S)
+ - Right click on the project and click *Properties*;
+ - Click *Tool* tab on the left panel, select the corresponding debugger and save the configuration (Ctrl + S)
 <br><img src="images/AVR-DA_LED_blink_delay_tool_settings.png" width="500">
 
 
