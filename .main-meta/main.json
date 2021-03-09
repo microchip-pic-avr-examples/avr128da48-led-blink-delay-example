@@ -3,27 +3,27 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.studio.project.",
-        "version": " ",
-        "displayName": "  ",
-        "projectName": "",
-        "shortDescription": "",
+        "name": "com.microchip.mcu8.studio.project.avr128da48-led-blink-delay-example",
+        "version": "1.0.2",
+        "displayName": "LED Toggle",
+        "projectName": "avr128da48-led-blink-delay-example",
+        "shortDescription": "This repository provides a Microchip Studio solution for how to toggle an LED each second using a delay function",
         "ide": {
-            "name": "",
-            "semverRange": ""
+            "name": "STUDIO",
+            "semverRange": ">=7.0.2397"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "AVR GCC",
+				"semverRange": "^5.4.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Dx",
+            "semverRange": "1.6.88"
         },
         "configurator": {
-            "name": "",
+            "name": "N/A",
             "semverRange": ""
         },
         "device": {
@@ -32,26 +32,23 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "AVR128DA48",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
-            "",
             [
-               "Peripherals", ""
-            ],
-            [
-               "Peripherals", ""
-            ]            			
+                "Peripherals",
+                "GPIO"
+            ]
         ],
         "peripherals": [
-            "",""
+            "GPIO"
         ],
         "keywords": [
-            "",
-            ""			
+            "LED toggle",
+            "Delay"
         ],
 		"additionalData": {
 			"longDescription": {
@@ -65,4 +62,4 @@
 			}
 		}
 	}
-}
+} 
