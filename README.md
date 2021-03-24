@@ -1,6 +1,6 @@
-<a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="MCHP" width="300"/></a>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# AVR128DA48 LED Blink Using Delay Function Code Example
+# LED Blink Using Delay
 
 This repository provides an Atmel Studio solution with a bare metal code example for an LED blink with delay function. This example represents a basic LED toggling application. The on and off period is set to 1 seconds and it is implemented using the built-in delay function.
 
@@ -12,7 +12,7 @@ More details and code examples on the AVR128DA48 can be found at the following l
 
 
 ## Software Used
-- Atmel Studio 7.0.2397 or newer [(microchip.com/mplab/avr-support/atmel-studio-7)](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
+- Microchip Studio 7.0.2397 or newer [(Microchip Studio for AVR® and SAM Devices)](https://www.microchip.com/en-us/development-tools-tools-and-software/microchip-studio-for-avr-and-sam-devices)
 - AVR-Dx 1.0.18 or newer Device Pack
 
 

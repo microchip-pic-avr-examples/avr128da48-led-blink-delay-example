@@ -5,9 +5,9 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.avr128da48-led-blink-delay-example",
         "version": "1.0.2",
-        "displayName": "LED Toggle",
+        "displayName": "LED Blink Using Delay",
         "projectName": "avr128da48-led-blink-delay-example",
-        "shortDescription": "This repository provides a Microchip Studio solution for how to toggle an LED each second using a delay function",
+        "shortDescription": "This repository provides a Microchip Studio solution for how to toggle an LED every second using a delay function",
         "ide": {
             "name": "STUDIO",
             "semverRange": ">=7.0.2397"
@@ -20,7 +20,7 @@
 		],
         "dfp": {
             "name": "AVR-Dx",
-            "semverRange": "1.6.88"
+            "semverRange": "^1.6.88"
         },
         "configurator": {
             "name": "N/A",
@@ -47,7 +47,7 @@
             "GPIO"
         ],
         "keywords": [
-            "LED toggle",
+            "LED blink",
             "Delay"
         ],
 		"additionalData": {
